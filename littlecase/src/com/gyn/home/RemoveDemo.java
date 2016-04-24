@@ -31,6 +31,11 @@ public class RemoveDemo {
         list.add("aaa");
         list.add("bbb");
         list.add("ccc");
+        list2 = new ArrayList<>();
+        list2.add("aaa");
+        list2.add("bbb");
+        list2.add("ccc");
+        list2.add("ddd");
     }
 
     public Map<String, String> getMap2() {

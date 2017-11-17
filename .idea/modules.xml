@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/algorithms/algorithms.iml" filepath="$PROJECT_DIR$/algorithms/algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/littlecase/littlecase.iml" filepath="$PROJECT_DIR$/littlecase/littlecase.iml" />
       <module fileurl="file://$PROJECT_DIR$/scalacase/scalacase.iml" filepath="$PROJECT_DIR$/scalacase/scalacase.iml" />
       <module fileurl="file://$PROJECT_DIR$/study.iml" filepath="$PROJECT_DIR$/study.iml" />

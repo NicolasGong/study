@@ -22,6 +22,7 @@ public class RightRemoveDemo {
         list.add("bbb");
         list.add("ccc");
         list.add("ddd");
+        list.add("eee");
     }
 
     public Map<String, String> getMap() {
